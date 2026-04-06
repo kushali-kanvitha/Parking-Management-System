@@ -5,7 +5,7 @@ This application simulates real-world parking allocation using core **data struc
 
 ---
 
-## Features
+## Features:
 
 * Park cars into available slots
 * Prevent duplicate entries
@@ -17,7 +17,7 @@ This application simulates real-world parking allocation using core **data struc
 
 ---
 
-## Concepts Used
+## Concepts Used:
 
 * **Object-Oriented Programming (OOP)**
 * **Java AWT (GUI)**
@@ -36,7 +36,7 @@ This application simulates real-world parking allocation using core **data struc
 
 ---
 
-## Project Structure
+## Project Structure:
 
 ```
 ParkingManagementSystem.java
@@ -44,7 +44,7 @@ ParkingManagementSystem.java
 
 ---
 
-## ⚙️ How It Works
+## How It Works:
 
 1. User enters a car number
 2. Click **"Park Car"**
@@ -58,33 +58,16 @@ ParkingManagementSystem.java
 4. Click **"Waiting List"**
 
    * Displays all queued cars
-
 ---
 
-## How to Run
-
-### Step 1: Compile
-
-```
-javac ParkingManagementSystem.java
-```
-
-### Step 2: Run
-
-```
-java ParkingManagementSystem
-```
-
----
-
-## Tech Stack
+## Tech Stack:
 
 * Java
 * AWT (Abstract Window Toolkit)
 
 ---
 
-## UI Preview
+## UI Preview:
 
 * Green → Available Slot
 * Red → Occupied Slot
@@ -92,7 +75,7 @@ java ParkingManagementSystem
 
 ---
 
-## Future Improvements
+## Future Improvements:
 
 * Upgrade UI using **Java Swing / JavaFX**
 * Add **database integration**
@@ -100,8 +83,12 @@ java ParkingManagementSystem
 * Convert into a **web-based application**
 
 ---
+## Screenshot:
+<img width="1919" height="635" alt="Screenshot 2026-04-06 160525" src="https://github.com/user-attachments/assets/1cd2bd6a-1f07-4511-a510-b4f8c0a0f25c" />
+<img width="1919" height="601" alt="Screenshot 2026-04-06 160604" src="https://github.com/user-attachments/assets/4ee9f68c-4b9e-4518-9431-8c7e9f7b98c9" />
 
-## Learning Outcome
+
+## Learning Outcome:
 
 This project helped in understanding:
 
@@ -112,7 +99,7 @@ This project helped in understanding:
 
 ---
 
-##  Author
+##  Author:
 
 **Ganapathi Kushali Kanvitha**
 
